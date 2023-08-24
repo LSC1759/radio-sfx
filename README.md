@@ -21,7 +21,16 @@ RX means Recieve (for others)
 
 ### 2. Ones I use and why
 
-I use 2 sets, currently im using SET1: TETRA (Georgian police style)  Ready to send: on1 (police uses none here) | Talk button up: mth800 off 2.wav | Incoming message: mth800 volume.wav (police uses none here) | End of incoming message: mth800 off 2.wav
+I use 2 sets, currently im using
+
+SET1: 
+TETRA (Georgian police style)
+| Ready to send: on1 (police uses none here) 
+| Talk button up: mth800 off 2.wav 
+| Incoming message: mth800 volume.wav (police uses none here) 
+| End of incoming message: mth800 off 2.wav
+
+
 
 SET2: HL2 style: lazy do whatever
 
